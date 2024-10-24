@@ -1,0 +1,6 @@
+#example1{
+
+  background-image: url(rickrolled.png); /*background, if small image it repeats */
+  background-position: center; /* centered horizontally */
+  
+  }
